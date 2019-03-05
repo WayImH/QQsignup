@@ -53,6 +53,8 @@ header{
 }
 header span{
     border-left: 4px solid #59afe4;
+    line-height:28px;
+    padding-left: 10px;
 }
 header input{
     border: none;
