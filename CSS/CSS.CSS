@@ -109,5 +109,6 @@ body fieldset{
     background: #69b946;
     border: 1px solid #69b946;
     border-radius: 2px;
-    height: 32px;
+    height: 36px;
+    color: #fff
 }
